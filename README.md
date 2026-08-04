@@ -9,6 +9,7 @@ The project focuses on understanding how factors such as credit history, self-em
 
 ## Business Problem
 Financial institutions need to evaluate loan applicants carefully to reduce default risk while still supporting eligible applicants. This project aims to answer:
+
 - What factors influence loan eligibility?
 - What factors are associated with loan default?
 - How can loan approval decisions be improved using data insights?
@@ -21,6 +22,7 @@ Financial institutions need to evaluate loan applicants carefully to reduce defa
 - Present business recommendations based on the analysis
 
 ## Tools Used
+
 | Tool | Purpose |
 |---|---|
 | Power BI | Dashboard development and data visualization |
@@ -30,6 +32,7 @@ Financial institutions need to evaluate loan applicants carefully to reduce defa
 
 ## Dataset Features
 The dataset includes loan applicant information such as:
+
 | Feature | Description |
 |---|---|
 | Gender | Applicant gender |
@@ -42,7 +45,18 @@ The dataset includes loan applicant information such as:
 | Loan Status | Loan approval outcome |
 | Loan Default | Default status |
 
+## Dashboard Pages
+
+| Page | Description |
+|---|---|
+| Cover Page | Introduces the loan risk analysis project |
+| Credit History Analysis | Shows how credit history affects loan status and default |
+| Self-Employment and Property Area Analysis | Compares loan approval and default patterns by employment type, household group, and property area |
+| Business Solution | Provides recommendations to reduce default cases |
+| Design Thinking | Summarizes the problem-solving approach used in the project |
+
 ## Key Insights
+
 | Insight | Explanation |
 |---|---|
 | Credit history is a major factor | Applicants with stronger credit history showed better loan approval outcomes and lower default risk |
@@ -51,6 +65,7 @@ The dataset includes loan applicant information such as:
 | Household income group affects interpretation | B40, M40, and T20 groups showed different patterns in approval and default behavior |
 
 ## Business Recommendations
+
 | Recommendation | Purpose |
 |---|---|
 | Prioritize credit history in loan evaluation | Credit history was one of the strongest indicators of loan status and default risk |
@@ -59,7 +74,25 @@ The dataset includes loan applicant information such as:
 | Support eligible rural/B40 applicants | Improve financial inclusion while still monitoring default risk |
 | Use gamification for repayment behavior | Reward timely repayments to encourage better repayment habits |
 
+## Dashboard Preview
+
+### Cover Page
+![Cover Page](https://github.com/amirahfaiqah/miniloanriskanalysis/blob/main/1)%20cover.png)
+
+### Credit History Analysis
+![Credit History Analysis](https://github.com/amirahfaiqah/miniloanriskanalysis/blob/main/2)%20credithistoryanalysis.png)
+
+### Self-Employment and Property Area Analysis
+![Household and Property Analysis](https://github.com/amirahfaiqah/miniloanriskanalysis/blob/main/3)%20household_propertyanalysis.png)
+
+### Business Solution
+![Business Solution](https://github.com/amirahfaiqah/miniloanriskanalysis/blob/main/4)%20businesssolution.png)
+
+### Design Thinking
+![Design Thinking]([images/design_thinking.png](https://github.com/amirahfaiqah/miniloanriskanalysis/blob/main/5)%20designthinking.png))
+
 ## Design Thinking Approach
+
 | Stage | Description |
 |---|---|
 | Empathize | Understand loan applicants and available dataset features |
@@ -88,6 +121,3 @@ The dataset includes loan applicant information such as:
 - Add DAX measures for deeper risk scoring
 - Improve dashboard interactivity using slicers and drill-through pages
 - Build a risk scorecard for loan applicants
-## Author
-Nur Amirah Faiqah  
-LinkedIn: https://www.linkedin.com/in/amirahfaiqah
