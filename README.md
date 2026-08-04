@@ -77,19 +77,19 @@ The dataset includes loan applicant information such as:
 ## Dashboard Preview
 
 ### Cover Page
-![Cover Page](https://github.com/amirahfaiqah/miniloanriskanalysis/blob/main/1)%20cover.png)
+![Cover Page](https://github.com/amirahfaiqah/miniloanriskanalysis/blob/main/1.%20cover.png)
 
 ### Credit History Analysis
-![Credit History Analysis](https://github.com/amirahfaiqah/miniloanriskanalysis/blob/main/2)%20credithistoryanalysis.png)
+![Credit History Analysis](https://github.com/amirahfaiqah/miniloanriskanalysis/blob/main/2.%20credithistoryanalysis.png)
 
 ### Self-Employment and Property Area Analysis
-![Household and Property Analysis](https://github.com/amirahfaiqah/miniloanriskanalysis/blob/main/3)%20household_propertyanalysis.png)
+![Household and Property Analysis](https://github.com/amirahfaiqah/miniloanriskanalysis/blob/main/3.%20household_propertyanalysis.png)
 
 ### Business Solution
-![Business Solution](https://github.com/amirahfaiqah/miniloanriskanalysis/blob/main/4)%20businesssolution.png)
+![Business Solution](https://github.com/amirahfaiqah/miniloanriskanalysis/blob/main/4.%20businesssolution.png)
 
 ### Design Thinking
-![Design Thinking]([images/design_thinking.png](https://github.com/amirahfaiqah/miniloanriskanalysis/blob/main/5)%20designthinking.png))
+![Design Thinking]([images/design_thinking.png](https://github.com/amirahfaiqah/miniloanriskanalysis/blob/main/5.%20designthinking.png))
 
 ## Design Thinking Approach
 
