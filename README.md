@@ -89,7 +89,7 @@ The dataset includes loan applicant information such as:
 ![Business Solution](https://github.com/amirahfaiqah/miniloanriskanalysis/blob/main/4.%20businesssolution.png)
 
 ### Design Thinking
-![Design Thinking]([images/design_thinking.png](https://github.com/amirahfaiqah/miniloanriskanalysis/blob/main/5.%20designthinking.png))
+![Design Thinking](https://github.com/amirahfaiqah/miniloanriskanalysis/blob/main/5.%20designthinking.png)
 
 ## Design Thinking Approach
 
