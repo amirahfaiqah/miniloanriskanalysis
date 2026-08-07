@@ -1,5 +1,5 @@
 # miniloanriskanalysis
-Capstone Power BI dashboard analyzing loan eligibility and default risk factors using data storytelling and business recommendations.
+Capstone Power BI dashboard analyzing loan eligibility and default risk factors using data storytelling and business solutions.
 # Loan Risk Analysis Dashboard
 
 ## Overview
